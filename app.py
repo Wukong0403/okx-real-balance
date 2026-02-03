@@ -60,6 +60,8 @@ def calculate_real_balance():
         'account_balance': 0,
         'unrealized_pnl': 0,
         'current_equity': 0,
+        'total_equity': 0,
+        'account_upl': 0,
         'positions': [],
         'stop_orders': [],
         'total_potential_loss': 0,
